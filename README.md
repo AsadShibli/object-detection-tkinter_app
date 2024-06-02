@@ -91,4 +91,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-For any questions or comments, please open an issue or contact me at [your-email@example.com].
+For any questions or comments, please feel free to open an issue or contact me at [mdasadullahshibli@gmail.com](mailto:mdasadullahshibli@gmail.com).
+
