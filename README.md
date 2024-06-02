@@ -11,6 +11,8 @@ This project uses YOLOv8 for object detection in videos and provides a graphical
 
 ## Demo
 
+![Screenshot 2024-06-02 061825](https://github.com/AsadShibli/object-detection-tkinter_app/assets/119102237/d0bdc89c-14c7-49bd-8e40-a721981d2c68)
+
 ## Requirements
 
 - Python 3.7+
